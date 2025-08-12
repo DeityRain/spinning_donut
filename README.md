@@ -28,5 +28,6 @@ cc donut.c -o donut -lm
 
 ## 🚀 Usage
 ./donut
+
 Press Ctrl+C to stop the animation.
 
